@@ -31,16 +31,17 @@ All without risking real money.
 - Testnet Safe	100% fake funds environment
   
 # Architecture #
-
-Browser UI (HTML/CSS)
-        ↓
-Flask Web Server
-        ↓
-Trading Engine (BasicBot)
-        ↓
-Binance Futures Testnet API
+`bash
+- Browser UI (HTML/CSS)
+-         ↓
+- Flask Web Server
+-         ↓
+- Trading Engine (BasicBot)
+-         ↓
+- Binance Futures Testnet API `
 
 # Installation #
+`bash
 git clone 
 cd binance-futures-testnet-bot
 pip install flask python-binance python-dotenv
@@ -48,7 +49,7 @@ python webapp.py
 Open:
 
 http://127.0.0.1:5000
-
+`
 # Test Funds #
 
 - Get free futures test funds at:
