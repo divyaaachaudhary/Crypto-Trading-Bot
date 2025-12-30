@@ -5,6 +5,10 @@
 A full-stack web trading terminal for Binance USDT-M Futures Testnet built with Python & Flask.
 Place real futures orders, test strategies, and build automated trading systems in a safe sandbox environment.
 
+
+<img width="1350" height="627" alt="Screenshot 2025-12-30 225235" src="https://github.com/user-attachments/assets/e908eb03-34a7-4740-858a-5301df01e8b6" />
+<img width="1349" height="593" alt="Screenshot 2025-12-30 225249" src="https://github.com/user-attachments/assets/9fb179f0-bbdc-4ad5-a0c1-1bdb4ad080ad" />
+
 ## Overview ##
 
 This project is a browser-based futures trading cockpit that connects directly to Binance Futures Testnet using the official API.
@@ -43,7 +47,7 @@ Trading Engine (BasicBot)
 
 ## Installation ##
 ```bash
-git clone 
+git clone https://github.com/divyaaachaudhary/Crypto-Trading-Bot.git
 cd binance-futures-testnet-bot
 pip install flask python-binance python-dotenv
 python webapp.py
